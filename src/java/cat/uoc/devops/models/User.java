@@ -5,7 +5,7 @@ public class User {
     private String name;
 
     public User() {
-        this.name = null;
+        this.name = "";
     }
 
     public User(String name) {
